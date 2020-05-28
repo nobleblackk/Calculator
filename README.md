@@ -1,3 +1,5 @@
+Implementation of Basic Calculator using Vanilla JavaScript (ECMAScript 6), HTML5. CSS3. 
+The WebApp can be accessed at: https://nobleblackk.github.io/Calculator/
 
 ## Welcome to GitHub Pages
 
